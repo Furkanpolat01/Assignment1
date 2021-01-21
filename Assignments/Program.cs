@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace odev1
+namespace Assignment
 {
 
 
